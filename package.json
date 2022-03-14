@@ -1,0 +1,19 @@
+{
+  "name": "svg-in-css-worklet",
+  "version": "1.0.1",
+  "description": "A small worklet to enable svgs in css with CSS houdini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gumnutt/scribble-worklet-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gumnutt/scribble-worklet-/issues"
+  },
+  "homepage": "https://github.com/Gumnutt/scribble-worklet-#readme"
+}
